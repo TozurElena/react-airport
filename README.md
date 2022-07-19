@@ -1,7 +1,7 @@
 # Airoport-React
 
 ## Description:
-**A simple, static, pomodoro timer with React.**
+**SPA for airport with data visualization in React, TypeScript, Redux-Toolkit и Tailwind**
 ### Minimal requirements
 - Display a big timer (minutes and seconds).
 - Four buttons:

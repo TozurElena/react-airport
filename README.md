@@ -4,7 +4,7 @@
 **SPA for airport with data visualization in React, TypeScript, Redux-Toolkit и Tailwind**
 
 ## Technology used
-
+<br>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" width="100" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="100" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="100" height="60"/>

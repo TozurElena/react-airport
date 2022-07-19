@@ -16,5 +16,6 @@
 - [TypeScript](https://www.typescriptlang.org/) Documentation
 - [Tailwindcss](https://tailwindcss.com/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
+- [react-redux](https://www.npmjs.com/package/react-redux) Official React bindings for Redux.
 
 ## Hosting

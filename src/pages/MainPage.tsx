@@ -4,7 +4,7 @@ import AirportFilter from '../components/AirportFilter';
 import AirportSearch from '../components/AirportSearch';
 
 function MainPage() {
-  
+
   return (
     <div className='container mx-auto max-w-[760px] pt-5'>
       <AirportSearch/>

@@ -2,7 +2,7 @@
 
 ## Description:
 **SPA for airport with data visualization in React, TypeScript, Redux-Toolkit и Tailwind**
-en process
+- en process
 
 ## Technology used
 ![JS](https://img.shields.io/badge/JS-JavaScript-blue?style=for-the-badge&logo=js&logoColor=white) </br>
